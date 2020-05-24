@@ -1,0 +1,15 @@
+C:\Users\Nikita\Documents\Компьютерная Графика\lab2\bin\Debug\lab2.exe.config
+C:\Users\Nikita\Documents\Компьютерная Графика\lab2\bin\Debug\lab2.exe
+C:\Users\Nikita\Documents\Компьютерная Графика\lab2\bin\Debug\lab2.pdb
+C:\Users\Nikita\Documents\Компьютерная Графика\lab2\bin\Debug\OpenTK.dll
+C:\Users\Nikita\Documents\Компьютерная Графика\lab2\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Nikita\Documents\Компьютерная Графика\lab2\bin\Debug\OpenTK.pdb
+C:\Users\Nikita\Documents\Компьютерная Графика\lab2\bin\Debug\OpenTK.xml
+C:\Users\Nikita\Documents\Компьютерная Графика\lab2\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Nikita\Documents\Компьютерная Графика\lab2\obj\Debug\lab2.csprojAssemblyReference.cache
+C:\Users\Nikita\Documents\Компьютерная Графика\lab2\obj\Debug\lab2.Form1.resources
+C:\Users\Nikita\Documents\Компьютерная Графика\lab2\obj\Debug\lab2.Properties.Resources.resources
+C:\Users\Nikita\Documents\Компьютерная Графика\lab2\obj\Debug\lab2.csproj.GenerateResource.cache
+C:\Users\Nikita\Documents\Компьютерная Графика\lab2\obj\Debug\lab2.csproj.CopyComplete
+C:\Users\Nikita\Documents\Компьютерная Графика\lab2\obj\Debug\lab2.exe
+C:\Users\Nikita\Documents\Компьютерная Графика\lab2\obj\Debug\lab2.pdb
